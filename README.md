@@ -1,2 +1,2 @@
 # noteApp
-Create and open notes from the terminal
+Create and open notes from the terminal. Foo.
